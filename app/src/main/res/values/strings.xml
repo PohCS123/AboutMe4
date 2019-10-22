@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_name">Pohhhhhh</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:
+        \n\tSRJK Cheng Siew, Batu Pahat, Johor\n
+        \n\tSMK Kolam Air, Batu Pahat, Johor\n
+        \n\tTAR UC, Kuala Lumpur\n
+        \n\tLiverpool John Moores, UK\n
+        \n\tMultimedia Unibersity, Cyberjaya
+        \nWorking Experiences:\n
+        \n\tParkson Ria\n
+        \n\tTheStore\n
+        \n\tMaxiGrid Sdn Bhd\n
+        \n\tTAR UC
+
+    </string>
+</resources>
